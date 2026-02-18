@@ -1,0 +1,5 @@
+{
+  "name": "Gemini Audio Transcriber",
+  "description": "A professional tool to upload and transcribe audio files instantly using the Gemini 2.5 Flash model.",
+  "requestFramePermissions": []
+}
