@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import { Header } from './components/Header';
 import { FileUpload } from './components/FileUpload';
 import { TranscriptionView } from './components/TranscriptionView';
-import { fileToBase64, transcribeMedia } from './services/geminiService';
+import { fileToBase64, transcribeMedia } from './services/sttService';
 import { AppStatus, FileData } from './types';
 import { Loader2, Music, Video, Trash2, Play, Pause, RefreshCw, Clock } from 'lucide-react';
 
